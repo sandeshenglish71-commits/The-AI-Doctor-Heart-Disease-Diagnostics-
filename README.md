@@ -9,4 +9,4 @@ Exploring: I made charts to see which patients were at high risk. I found that t
 
 The Model: I used a Random Forest Classifier. Medical data is complicated, and this model is very good at finding patterns between age, heart rate, and blood pressure.
 
-What I Learned I learned that mistakes in healthcare are dangerous. If the AI says a sick person is "Healthy," that is very bad. I learned that for medical projects, it is better to be safe and catch every case (High Recall) than just to have a high accuracy score.
+What I Learned? I learned that mistakes in healthcare are dangerous. If the AI says a sick person is "Healthy," that is very bad. I learned that for medical projects, it is better to be safe and catch every case (High Recall) than just to have a high accuracy score.
